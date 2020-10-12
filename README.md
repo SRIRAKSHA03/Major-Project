@@ -1,5 +1,5 @@
 # Major-Project
-based on sentimate analysis on review data set
+based on sentimate analysis of IMDB Movie Review
 
 google coloboratory link-https://colab.research.google.com/drive/1agruaHsqnmV3T03TKBKDE8eAndmWklv8?usp=sharing
 
